@@ -1,6 +1,7 @@
 .eunit
 deps
 ebin
+seerp.sublime*
 *.o
 *.beam
 *.plt
