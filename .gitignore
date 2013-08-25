@@ -5,3 +5,5 @@ seerp.sublime*
 *.o
 *.beam
 *.plt
+*.iml
+.idea
